@@ -1,0 +1,6 @@
+git remote add origin https://github.com/YeongHyeonHeo/example.git
+-> 연결
+
+git remote -v
+-> 무엇이랑 연결되어 있는지
+
